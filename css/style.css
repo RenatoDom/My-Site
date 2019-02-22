@@ -88,11 +88,13 @@ a:hover { /*sudo class*/
 }
 
 .html_png {
+  max-width: 150px;
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 .css_png {
+  max-width: 150px;
   width: 25%;
   float: right;
   margin-left: 30px;
